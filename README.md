@@ -1,4 +1,4 @@
-# Bilingual Audio Director: AI-Powered Immersive Learning
+# Bilingual Audio Director: Full-Scale AI Podcast Production
 
 [![Architecture](https://img.shields.io/badge/Pattern-Orchestration%20Director-blue)](#)
 [![Governance](https://img.shields.io/badge/Governance-API%20Unit%20Economics-green)](#)
@@ -10,14 +10,15 @@
 
 ## 🎙️ What is the Bilingual Audio Director?
 
-The **Bilingual Audio Director** is an end-to-end production suite that transforms a simple topic—like "The Life Cycle of a Butterfly" or "Exploring a Spooky Forest"—into a professional-grade, multi-character audio experience for children.
+The **Bilingual Audio Director** is a full-scale production engine that transforms a simple topic into a professional-grade, multi-character audio series. This is not just a script-writer; it is a **fully automated factory for children's audio content**, capable of generating a complete **7-part, 30-minute immersive podcast in under 10 minutes.**
 
-Unlike standard "Text-to-Speech" tools, the Director uses **Agentic AI** to act as a writer, casting director, and sound engineer, specifically optimized for **dual-language immersion** (e.g., teaching Mandarin to English speakers or vice versa).
+Unlike standard "Text-to-Speech" tools, the system acts as a writer, casting director, and sound engineer, specifically optimized for **dual-language immersion** (e.g., teaching Mandarin to English speakers or vice versa).
 
 ### ✨ Why it's Cool
 
-*   **🎭 Immersive "Screenplay" Synthesis:** It doesn't just read text; it writes and performs *audio dramas*. It casts distinct AI voices for different characters (e.g., a "Spark" host and an "Anchor" host) to keep children engaged.
-*   **🌐 The "Linguistic Bridge":** The system is designed for **Bilingual-First storytelling**. It uses specialized narrative patterns to introduce new vocabulary in one language (e.g., Mandarin) and naturally reinforce it in another (English) through context, rather than simple translation.
+*   **⚡ Scale & Speed:** It moves from a single prompt to a high-fidelity, multi-track audio series with automated track sequencing and production-ready encoding.
+*   **🎭 Immersive "Screenplay" Synthesis:** It writes and performs *audio dramas* rather than reading flat text. It casts distinct AI voices for different characters (e.g., a "Spark" host and an "Anchor" host) to maximize engagement.
+*   **🌐 The "Linguistic Bridge":** Designed for **Bilingual-First storytelling**, the system uses specialized narrative patterns to introduce new vocabulary in one language (e.g., Mandarin) and reinforce it in another (English) through context, rather than simple translation.
 *   **🧩 Screen-Free Magic (Yoto Integration):** Features a specialized "Yoto Wizard" that automates the creation of content for **Yoto screen-free players**, including automated track sequencing and the generation of custom 16x16 pixel art icons for the physical cards.
 *   **🤖 Truly Agentic Orchestration:** It uses a "Director Agent" pattern. It starts with a high-level "Blueprint" (curating themes and cultural facts) and iteratively refines it through casting, linguistic review, and multimodal audio synthesis.
 
