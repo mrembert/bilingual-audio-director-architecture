@@ -4,7 +4,7 @@
 [![Governance](https://img.shields.io/badge/Governance-API%20Unit%20Economics-green)](#)
 [![Multimodal](https://img.shields.io/badge/AI-Multimodal%20Synthesis-orange)](#)
 
-> **Note on Intellectual Property:** This repository contains the **Architectural Reference** and **Data Models** for the Bilingual Audio Director. The core synthesis engine, specialized prompts, and proprietary audio processing logic are withheld for commercial IP protection. This public blueprint demonstrates technical leadership in **Agentic Orchestration** and **AI Cost Governance**.
+> **Note on Intellectual Property:** This repository contains the **Architectural Reference** and **Data Models** for the Bilingual Audio Director. The core synthesis engine, specialized prompts, and proprietary audio processing logic are withheld for commercial IP protection.
 
 ---
 
