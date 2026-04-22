@@ -38,7 +38,7 @@ The system follows a multi-stage **Refinement & Synthesis** lifecycle:
 
 - **Frontend:** React 19, TypeScript.
 - **Backend:** Python (FastAPI), Pydub, Google GenAI SDK.
-- **AI Models:** Gemini 2.5 Pro (Director), Gemini 2.5 Pro TTS (Multimodal Synthesis).
+- **AI Models:** Gemini 3.1 Pro (Director), Gemini 2.5 Pro TTS (Multimodal Synthesis).
 
 ---
 *Built to explore the intersection of Multimodal AI and Audio Engineering.*

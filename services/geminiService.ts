@@ -11,7 +11,7 @@ import { PodcastScript, YotoBlueprint, UsageMetadata } from '../types';
 export class GeminiService {
   /**
    * STAGE 0: Blueprint Generation
-   * Orchestrates the creation of a high-level "Kit Blueprint" using Gemini 1.5 Pro 
+   * Orchestrates the creation of a high-level "Kit Blueprint" using Gemini 3.1 Pro 
    * and Google Search tools to identify themes, cultural context, and narrative arcs.
    */
   async generateBlueprint(theme: string, ageRange: string): Promise<YotoBlueprint> {
