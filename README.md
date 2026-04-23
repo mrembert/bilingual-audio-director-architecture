@@ -1,4 +1,4 @@
-# Bilingual Audio Director: Full-Scale AI Podcast Production
+# Bilingual Audio Producer: Full-Scale AI Podcast Production
 
 [![Architecture](https://img.shields.io/badge/Pattern-Orchestration%20Director-blue)](#)
 [![Governance](https://img.shields.io/badge/Governance-API%20Unit%20Economics-green)](#)
